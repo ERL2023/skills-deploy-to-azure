@@ -1,4 +1,4 @@
-name: Stage the app
+name: Deploy to staging
 
 # Controls when the workflow will run in the process
 on:
